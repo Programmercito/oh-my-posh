@@ -20,7 +20,7 @@
           "background": "#bb9af7",
           "foreground": "#1a1b26",
           "leading_diamond": "\ue0b6",
-          "properties": {
+          "options": {
             "style": "folder"
           },
           "style": "diamond",
@@ -38,7 +38,7 @@
           ],
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "branch_icon": "\ue725 ",
             "fetch_status": true,
             "fetch_upstream_icon": true
@@ -52,7 +52,7 @@
           "background": "#7dcfff",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "fetch_version": true,
             "display_mode": "context"
           },
@@ -65,7 +65,7 @@
           "background": "#73daca",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "fetch_version": true,
             "display_mode": "context"
           },
@@ -78,7 +78,7 @@
           "background": "#f89820",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "fetch_version": true,
             "display_mode": "context"
           },
@@ -91,7 +91,7 @@
           "background": "#7dcfff",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "fetch_version": true,
             "display_mode": "context"
           },
@@ -104,7 +104,7 @@
           "background": "#f7768e",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "fetch_version": true,
             "display_mode": "context"
           },
@@ -117,7 +117,7 @@
           "background": "#bb9af7",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "fetch_version": true,
             "display_mode": "context"
           },
@@ -130,7 +130,7 @@
           "background": "#ff9e64",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "fetch_version": true,
             "display_mode": "context"
           },
@@ -148,7 +148,7 @@
           ],
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "charged_icon": "\uf240 ",
             "charging_icon": "\uf1e6 ",
             "discharging_icon": "\uf243 "
@@ -162,7 +162,7 @@
           "background": "#e0af68",
           "foreground": "#1a1b26",
           "leading_diamond": " \ue0b6",
-          "properties": {
+          "options": {
             "time_format": "15:04"
           },
           "style": "diamond",
@@ -181,7 +181,7 @@
           "background": "#565f89",
           "foreground": "#c0caf5",
           "leading_diamond": "\ue0b6",
-          "properties": {
+          "options": {
             "style": "austin",
             "threshold": 500,
             "always_enabled": true
@@ -198,7 +198,7 @@
           ],
           "foreground": "#1a1b26",
           "leading_diamond": "\ue0b6",
-          "properties": {
+          "options": {
             "always_enabled": true
           },
           "style": "diamond",
